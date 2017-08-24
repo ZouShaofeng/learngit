@@ -9,3 +9,5 @@ create a fucked up branch
 create a new branch is fucked slowly
 6666666
 GIT IS A FREE HARDWARE
+we are stupid
+adaw
